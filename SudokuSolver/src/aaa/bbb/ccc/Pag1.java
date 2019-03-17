@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 public class Pag1 
 {
 
+	
 	public int[][] a=new int[9][9];;
 	public String b[]=new String[81] ;
 
